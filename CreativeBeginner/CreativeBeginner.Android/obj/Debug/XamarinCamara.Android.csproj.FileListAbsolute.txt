@@ -1,0 +1,286 @@
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.csprojResolveAssemblyReference.cache
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.apk
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android-Signed.apk
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.CurrentActivity.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.CurrentActivity.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.dll
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.pdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\bin\CreativeBeginner.Android.apk
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\icon.png
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\layout\tabbar.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\layout\toolbar.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\values\styles.xml
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\R.cs.flag
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\uploadflags.txt
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\CreativeBeginner.Android.dll.mdb
+D:\Desarrollo\programmingapps.net\Xamarin Camara\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\CreativeBeginner.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.apk
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android-Signed.apk
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.csprojResolveAssemblyReference.cache
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\bin\CreativeBeginner.Android.apk
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\values\styles.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\R.cs.flag
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\uploadflags.txt
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\CreativeBeginner.Android.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\CreativeBeginner.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner\CreativeBeginner\CreativeBeginner\bin\Debug\CreativeBeginner.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.csprojResolveAssemblyReference.cache
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.apk
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android-Signed.apk
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Settings.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\SQLite.Net.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Settings.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\bin\CreativeBeginner.Android.apk
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\values\styles.xml
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\avatar.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\enero.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\logo.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\logoimagelayout.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio1.jpg
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio2.jpg
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio3.jpg
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio4.jpg
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio5.jpg
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\xamarinlogo.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\down_arrow.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_aboutus.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_client.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_contactus.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_event.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_exit.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_help.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_home.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_product.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_service.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_solution.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\menu_icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\up_arrow.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\R.cs.flag
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\uploadflags.txt
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\CreativeBeginner.Android.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\CreativeBeginner.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.dll.mdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\CreativeBeginner.dll.mdb
+bin\Debug\CreativeBeginner.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\CreativeBeginner.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.Media.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Media.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+obj\Debug\linksrc\CreativeBeginner.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.dll
+C:\Users\Diego Ramos\Desktop\CreativeBeginner - copia (2)\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.pdb

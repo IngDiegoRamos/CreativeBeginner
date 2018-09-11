@@ -1,0 +1,128 @@
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.apk
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android-Signed.apk
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.CurrentActivity.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Settings.Abstractions.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Settings.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\SQLite.Net.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.CurrentActivity.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Settings.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Plugin.Settings.Abstractions.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginnerApp.Android.csproj.CoreCompileInputs.cache
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginner.Android.pdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\bin\CreativeBeginner.Android.apk
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\icon.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\layout\tabbar.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\layout\toolbar.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\values\styles.xml
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\avatar.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\enero.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\logo.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\logoimagelayout.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio1.jpg
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio2.jpg
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio3.jpg
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio4.jpg
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\servicio5.jpg
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable\xamarinlogo.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\down_arrow.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_aboutus.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_client.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_contactus.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_event.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_exit.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_help.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_home.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_product.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_service.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\icon_solution.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\menu_icon.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-hdpi\up_arrow.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-mdpi\icon.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\R.cs.flag
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\uploadflags.txt
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\CreativeBeginnerApp.Android.csprojResolveAssemblyReference.cache
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\CreativeBeginner.Android.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\CreativeBeginner.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner.Android\bin\Debug\CreativeBeginner.Android.dll
+D:\Users\Diego Ramos\Desktop\SAMappXamarinForms - copia - copia - copia\CreativeBeginner\CreativeBeginner\bin\Debug\CreativeBeginner.dll
+bin\Debug\CreativeBeginner.dll.mdb
+obj\Debug\linksrc\CreativeBeginner.Android.dll.mdb
+obj\Debug\linksrc\CreativeBeginner.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.Media.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Media.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
